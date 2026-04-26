@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.png
+comments.csv
+trending_videos.csv
+sentiment_results.csv
